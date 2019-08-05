@@ -13,10 +13,17 @@ export default new Router({
     {
       path: '/guitars/electric',
       name: 'electricGuitars',
-      // route level code-splitting
-      // this generates a separate chunk (about.[hash].js) for this route
-      // which is lazy-loaded when the route is visited.
-      component: () => import( /* webpackChunkName: "about" */ './views/guitars/electric.vue')
+      component: () => import('./views/guitars/electric.vue')
+    },
+    {
+      path: '/guitars/acoustic',
+      name: 'acousticGuitars',
+      component: () => import('./views/guitars/acoustic.vue')
+    },
+    {
+      path: '/guitars/bass',
+      name: 'bassGuitars',
+      component: () => import('./views/guitars/bass.vue')
     }
   ]
 })

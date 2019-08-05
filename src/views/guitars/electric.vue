@@ -22,7 +22,7 @@
       <a-card hoverable style="width: 240px">
         <img
           alt="example"
-          src="https://www.yupangco.com/img/cache/thumbnail/3tsamprotele.jpg"
+          src="https://www.yupangco.com/img/cache/thumbnail/amproteleblack.jpg"
           slot="cover"
         />
         <a-card-meta title="Fender American Professional Telecaster">
@@ -40,7 +40,7 @@
       <a-card hoverable style="width: 240px">
         <img
           alt="example"
-          src="https://www.yupangco.com/img/cache/thumbnail/amprotelesonicgrey.jpg"
+          src="https://www.yupangco.com/img/cache/thumbnail/amprostratrwolw.jpg"
           slot="cover"
         />
         <a-card-meta title="Fender American Professional Telecaster Rosewood">

@@ -4,11 +4,11 @@
       <a-card hoverable style="width: 240px">
         <img
           alt="example"
-          src="https://www.yupangco.com/img/cache/thumbnail/ZNHdTG8IDFU4bEmwRqtp5yZmjnPfhpZusbbJPtfE.jpeg"
+          src="https://www.yupangco.com/img/cache/thumbnail/TRBX305CAR.jpg"
           slot="cover"
         />
-        <a-card-meta title="Seagull S6 Original W/Qi">
-          <template slot="description">₱28,990.00</template>
+        <a-card-meta title="Yamaha TRBX 305">
+          <template slot="description">₱24,950.00</template>
         </a-card-meta>
         <a-button @click="Click1" style="marginTop: 16px">{{sh1}}</a-button>
         <p v-show="desc1">DESCRIPTION</p>
@@ -22,11 +22,11 @@
       <a-card hoverable style="width: 240px">
         <img
           alt="example"
-          src="https://www.yupangco.com/img/cache/thumbnail/P74S6SLIMCW.jpg"
+          src="https://www.yupangco.com/img/cache/thumbnail/TRBX304PEWTER.jpg"
           slot="cover"
         />
-        <a-card-meta title="Seagull Coastline CW W/Qi">
-          <template slot="description">₱31,990.00</template>
+        <a-card-meta title="Yamaha TRBX 304">
+          <template slot="description">₱21,950.00</template>
         </a-card-meta>
         <a-button @click="Click2" style="marginTop: 16px">{{sh2}}</a-button>
         <p v-show="desc2">DESCRIPTION</p>
@@ -40,11 +40,11 @@
       <a-card hoverable style="width: 240px">
         <img
           alt="example"
-          src="https://www.yupangco.com/img/cache/thumbnail/P74EXCURSIONFOLK.jpg"
+          src="https://www.yupangco.com/img/cache/thumbnail/TRBX504TRANSWHITE.jpg"
           slot="cover"
         />
-        <a-card-meta title="Seagull Excursion">
-          <template slot="description">₱21,990.00</template>
+        <a-card-meta title="Fender American Professional Telecaster Rosewood">
+          <template slot="description">₱29,950.00</template>
         </a-card-meta>
         <a-button @click="Click3" style="marginTop: 16px">{{sh3}}</a-button>
         <p v-show="desc3">DESCRIPTION</p>
@@ -59,11 +59,11 @@
       <a-card hoverable style="width: 240px">
         <img
           alt="example"
-          src="https://www.yupangco.com/img/cache/thumbnail/P74ENTOURAGECWQI.jpg"
+          src="https://www.yupangco.com/img/cache/thumbnail/squierdeluxejbv3ts.jpg"
           slot="cover"
         />
-        <a-card-meta title="Seagull Entourage CW W/Qi">
-          <template slot="description">₱34,990.00</template>
+        <a-card-meta title="Squier Deluxe Jazz Bass Active V">
+          <template slot="description">₱17,950.00</template>
         </a-card-meta>
         <a-button @click="Click4" style="marginTop: 16px">{{sh4}}</a-button>
         <p v-show="desc4">DESCRIPTION</p>
