@@ -4,17 +4,17 @@
       <a-card hoverable style="width: 240px">
         <img
           alt="example"
-          src="https://www.yupangco.com/img/cache/thumbnail/ZNHdTG8IDFU4bEmwRqtp5yZmjnPfhpZusbbJPtfE.jpeg"
+          src="https://www.yupangco.com/img/cache/thumbnail/CLP-645PE.jpg"
           slot="cover"
         />
-        <a-card-meta title="Seagull S6 Original W/Qi">
-          <template slot="description">₱28,990.00</template>
+        <a-card-meta title="Yamaha CLP-645 PE">
+          <template slot="description">₱159,950.00</template>
         </a-card-meta>
         <a-button @click="Click1" style="marginTop: 16px">{{sh1}}</a-button>
         <p v-show="desc1">DESCRIPTION</p>
         <p
           v-show="desc1"
-        >Fender is guided by one clear, simple directive: make life better for musicians. While the original Telecaster certainly did that (and then some), we weren't content to rest on our laurels. Our team of mad scientists examined every component in near-microscopic detail. If we were able to improve it with a new design or modern materials we did; if it didn't need improvement, we left it alone. When the wood chips and solder fumes settled, what was left was the American Professional Telecaster—everything you need to play your best.</p>
+        >Powerful sound and a superb wooden keyboard offer unprecedented levels of versatility to pianists of all abilities.</p>
         <a-button :loading="loading1" @click="handleClick1" style="marginTop: 16px">Add to Cart</a-button>
       </a-card>
     </a-row>
@@ -22,17 +22,17 @@
       <a-card hoverable style="width: 240px">
         <img
           alt="example"
-          src="https://www.yupangco.com/img/cache/thumbnail/P74S6SLIMCW.jpg"
+          src="https://www.yupangco.com/img/cache/thumbnail/CLP-645R.jpg"
           slot="cover"
         />
-        <a-card-meta title="Seagull Coastline CW W/Qi">
-          <template slot="description">₱31,990.00</template>
+        <a-card-meta title="Yamaha CLP-645 R">
+          <template slot="description">₱134,950.00</template>
         </a-card-meta>
         <a-button @click="Click2" style="marginTop: 16px">{{sh2}}</a-button>
         <p v-show="desc2">DESCRIPTION</p>
         <p
           v-show="desc2"
-        >Fender is guided by one clear, simple directive: make life better for musicians. While the original Telecaster certainly did that (and then some), we weren't content to rest on our laurels. Our team of mad scientists examined every component in near-microscopic detail. If we were able to improve it with a new design or modern materials we did; if it didn't need improvement, we left it alone. When the wood chips and solder fumes settled, what was left was the American Professional Telecaster—everything you need to play your best.</p>
+        >Powerful sound and a superb wooden keyboard offer unprecedented levels of versatility to pianists of all abilities.</p>
         <a-button :loading="loading2" @click="handleClick2" style="marginTop: 16px">Add to Cart</a-button>
       </a-card>
     </a-row>
@@ -40,17 +40,17 @@
       <a-card hoverable style="width: 240px">
         <img
           alt="example"
-          src="https://www.yupangco.com/img/cache/thumbnail/P74EXCURSIONFOLK.jpg"
+          src="https://www.yupangco.com/img/cache/thumbnail/CLP625PE.jpg"
           slot="cover"
         />
-        <a-card-meta title="Seagull Excursion">
-          <template slot="description">₱21,990.00</template>
+        <a-card-meta title="Yamaha CLP-625 PE">
+          <template slot="description">₱109,950.00</template>
         </a-card-meta>
         <a-button @click="Click3" style="marginTop: 16px">{{sh3}}</a-button>
         <p v-show="desc3">DESCRIPTION</p>
         <p
           v-show="desc3"
-        >Fender is guided by one clear, simple directive: make life better for musicians. While the original Telecaster certainly did that (and then some), we weren't content to rest on our laurels. Our team of mad scientists examined every component in near-microscopic detail. If we were able to improve it with a new design or modern materials we did; if it didn't need improvement, we left it alone. When the wood chips and solder fumes settled, what was left was the American Professional Telecaster—everything you need to play your best.</p>
+        >Powerful sound and a superb wooden keyboard offer unprecedented levels of versatility to pianists of all abilities.</p>
 
         <a-button :loading="loading3" @click="handleClick3" style="marginTop: 16px">Add to Cart</a-button>
       </a-card>
@@ -59,17 +59,17 @@
       <a-card hoverable style="width: 240px">
         <img
           alt="example"
-          src="https://www.yupangco.com/img/cache/thumbnail/P74ENTOURAGECWQI.jpg"
+          src="https://www.yupangco.com/img/cache/thumbnail/CLP625R.jpg"
           slot="cover"
         />
-        <a-card-meta title="Seagull Entourage CW W/Qi">
-          <template slot="description">₱34,990.00</template>
+        <a-card-meta title="Yamaha CLP-625 R">
+          <template slot="description">₱99,950.00</template>
         </a-card-meta>
         <a-button @click="Click4" style="marginTop: 16px">{{sh4}}</a-button>
         <p v-show="desc4">DESCRIPTION</p>
         <p
           v-show="desc4"
-        >Fender is guided by one clear, simple directive: make life better for musicians. While the original Telecaster certainly did that (and then some), we weren't content to rest on our laurels. Our team of mad scientists examined every component in near-microscopic detail. If we were able to improve it with a new design or modern materials we did; if it didn't need improvement, we left it alone. When the wood chips and solder fumes settled, what was left was the American Professional Telecaster—everything you need to play your best.</p>
+        >Powerful sound and a superb wooden keyboard offer unprecedented levels of versatility to pianists of all abilities.</p>
 
         <a-button :loading="loading4" @click="handleClick4" style="marginTop: 16px">Add to Cart</a-button>
       </a-card>

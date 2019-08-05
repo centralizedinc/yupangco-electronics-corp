@@ -4,11 +4,11 @@
       <a-card hoverable style="width: 240px">
         <img
           alt="example"
-          src="https://www.yupangco.com/img/cache/thumbnail/ZNHdTG8IDFU4bEmwRqtp5yZmjnPfhpZusbbJPtfE.jpeg"
+          src="https://www.yupangco.com/img/cache/thumbnail/P03C7XPE.jpg"
           slot="cover"
         />
-        <a-card-meta title="Seagull S6 Original W/Qi">
-          <template slot="description">₱28,990.00</template>
+        <a-card-meta title="Yamaha C7X">
+          <template slot="description">₱2,650,000.00</template>
         </a-card-meta>
         <a-button @click="Click1" style="marginTop: 16px">{{sh1}}</a-button>
         <p v-show="desc1">DESCRIPTION</p>
@@ -22,11 +22,11 @@
       <a-card hoverable style="width: 240px">
         <img
           alt="example"
-          src="https://www.yupangco.com/img/cache/thumbnail/P74S6SLIMCW.jpg"
+          src="https://www.yupangco.com/img/cache/thumbnail/P03C3XPE.jpg"
           slot="cover"
         />
-        <a-card-meta title="Seagull Coastline CW W/Qi">
-          <template slot="description">₱31,990.00</template>
+        <a-card-meta title="Yamaha C3X">
+          <template slot="description">₱1,800,000.00</template>
         </a-card-meta>
         <a-button @click="Click2" style="marginTop: 16px">{{sh2}}</a-button>
         <p v-show="desc2">DESCRIPTION</p>
@@ -40,11 +40,11 @@
       <a-card hoverable style="width: 240px">
         <img
           alt="example"
-          src="https://www.yupangco.com/img/cache/thumbnail/P74EXCURSIONFOLK.jpg"
+          src="https://www.yupangco.com/img/cache/thumbnail/P03GB1KPAW.jpg"
           slot="cover"
         />
-        <a-card-meta title="Seagull Excursion">
-          <template slot="description">₱21,990.00</template>
+        <a-card-meta title="Yamaha GB1K PAW">
+          <template slot="description">₱750,000.00</template>
         </a-card-meta>
         <a-button @click="Click3" style="marginTop: 16px">{{sh3}}</a-button>
         <p v-show="desc3">DESCRIPTION</p>
@@ -59,11 +59,11 @@
       <a-card hoverable style="width: 240px">
         <img
           alt="example"
-          src="https://www.yupangco.com/img/cache/thumbnail/P74ENTOURAGECWQI.jpg"
+          src="https://www.yupangco.com/img/cache/thumbnail/P03GB1KPE.jpg"
           slot="cover"
         />
-        <a-card-meta title="Seagull Entourage CW W/Qi">
-          <template slot="description">₱34,990.00</template>
+        <a-card-meta title="Yamaha GB1K PE">
+          <template slot="description">₱1,650,000.00</template>
         </a-card-meta>
         <a-button @click="Click4" style="marginTop: 16px">{{sh4}}</a-button>
         <p v-show="desc4">DESCRIPTION</p>

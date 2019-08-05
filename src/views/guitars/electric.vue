@@ -1,5 +1,5 @@
 <template>
-  <div style="padding: 20px;">
+  <div style="padding: 20px;" align="middle">
     <a-row :gutter="10">
       <a-card hoverable style="width: 240px">
         <img

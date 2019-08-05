@@ -4,17 +4,17 @@
       <a-card hoverable style="width: 240px">
         <img
           alt="example"
-          src="https://www.yupangco.com/img/cache/thumbnail/ZNHdTG8IDFU4bEmwRqtp5yZmjnPfhpZusbbJPtfE.jpeg"
+          src="https://www.yupangco.com/img/cache/thumbnail/rydeenfineblue.jpg"
           slot="cover"
         />
-        <a-card-meta title="Seagull S6 Original W/Qi">
-          <template slot="description">₱28,990.00</template>
+        <a-card-meta title="Yamaha Rydeen 5 Piece Drum Set">
+          <template slot="description">₱32,950.00</template>
         </a-card-meta>
         <a-button @click="Click1" style="marginTop: 16px">{{sh1}}</a-button>
         <p v-show="desc1">DESCRIPTION</p>
         <p
           v-show="desc1"
-        >Fender is guided by one clear, simple directive: make life better for musicians. While the original Telecaster certainly did that (and then some), we weren't content to rest on our laurels. Our team of mad scientists examined every component in near-microscopic detail. If we were able to improve it with a new design or modern materials we did; if it didn't need improvement, we left it alone. When the wood chips and solder fumes settled, what was left was the American Professional Telecaster—everything you need to play your best.</p>
+        >*Cymbals not included. The new RYDEEN (5-piece shell pack) is exactly what any beginner or intermediate player would love to play.</p>
         <a-button :loading="loading1" @click="handleClick1" style="marginTop: 16px">Add to Cart</a-button>
       </a-card>
     </a-row>
@@ -22,17 +22,17 @@
       <a-card hoverable style="width: 240px">
         <img
           alt="example"
-          src="https://www.yupangco.com/img/cache/thumbnail/P74S6SLIMCW.jpg"
+          src="https://www.yupangco.com/img/cache/thumbnail/stagecustomnatural.jpg"
           slot="cover"
         />
-        <a-card-meta title="Seagull Coastline CW W/Qi">
-          <template slot="description">₱31,990.00</template>
+        <a-card-meta title="Yamaha Stage Custom Birch">
+          <template slot="description">₱79,950.00</template>
         </a-card-meta>
         <a-button @click="Click2" style="marginTop: 16px">{{sh2}}</a-button>
         <p v-show="desc2">DESCRIPTION</p>
         <p
           v-show="desc2"
-        >Fender is guided by one clear, simple directive: make life better for musicians. While the original Telecaster certainly did that (and then some), we weren't content to rest on our laurels. Our team of mad scientists examined every component in near-microscopic detail. If we were able to improve it with a new design or modern materials we did; if it didn't need improvement, we left it alone. When the wood chips and solder fumes settled, what was left was the American Professional Telecaster—everything you need to play your best.</p>
+        >With the introduction of the Stage Custom in 1995, Yamaha, once again, set the standard for value and sound. The new Stage Custom inherits 100% birch wood with upgraded metal parts.</p>
         <a-button :loading="loading2" @click="handleClick2" style="marginTop: 16px">Add to Cart</a-button>
       </a-card>
     </a-row>
@@ -40,17 +40,23 @@
       <a-card hoverable style="width: 240px">
         <img
           alt="example"
-          src="https://www.yupangco.com/img/cache/thumbnail/P74EXCURSIONFOLK.jpg"
+          src="https://www.yupangco.com/img/cache/thumbnail/absolutecustom.jpg"
           slot="cover"
         />
-        <a-card-meta title="Seagull Excursion">
-          <template slot="description">₱21,990.00</template>
+        <a-card-meta title="Yamaha Absolute Hybrid Maple 5 pcs. Drum Set">
+          <template slot="description">₱269,950.00</template>
         </a-card-meta>
         <a-button @click="Click3" style="marginTop: 16px">{{sh3}}</a-button>
         <p v-show="desc3">DESCRIPTION</p>
-        <p
-          v-show="desc3"
-        >Fender is guided by one clear, simple directive: make life better for musicians. While the original Telecaster certainly did that (and then some), we weren't content to rest on our laurels. Our team of mad scientists examined every component in near-microscopic detail. If we were able to improve it with a new design or modern materials we did; if it didn't need improvement, we left it alone. When the wood chips and solder fumes settled, what was left was the American Professional Telecaster—everything you need to play your best.</p>
+        <p v-show="desc3">
+          An extraordinary degree of expressive power, allowing drummers to pursue a level of expression that perhaps they have not experienced before in their other drums.
+          *Hybrid maple shell (center wenge ply)
+          *Hook lug
+          *Y.E.S.S. III mount system
+          *Vent hole
+          *Optimized bearing edge shape
+          *Inner vintage finish
+        </p>
 
         <a-button :loading="loading3" @click="handleClick3" style="marginTop: 16px">Add to Cart</a-button>
       </a-card>
@@ -59,17 +65,23 @@
       <a-card hoverable style="width: 240px">
         <img
           alt="example"
-          src="https://www.yupangco.com/img/cache/thumbnail/P74ENTOURAGECWQI.jpg"
+          src="https://www.yupangco.com/img/cache/thumbnail/xsI81YOm1WJ5jHdIyDkDLmrBNdsvRDSB9k3NdUAp.jpeg"
           slot="cover"
         />
-        <a-card-meta title="Seagull Entourage CW W/Qi">
-          <template slot="description">₱34,990.00</template>
+        <a-card-meta title="Yamaha Absolute Hybrid Maple 5 pcs. Drum Set">
+          <template slot="description">₱269,950.00</template>
         </a-card-meta>
         <a-button @click="Click4" style="marginTop: 16px">{{sh4}}</a-button>
         <p v-show="desc4">DESCRIPTION</p>
-        <p
-          v-show="desc4"
-        >Fender is guided by one clear, simple directive: make life better for musicians. While the original Telecaster certainly did that (and then some), we weren't content to rest on our laurels. Our team of mad scientists examined every component in near-microscopic detail. If we were able to improve it with a new design or modern materials we did; if it didn't need improvement, we left it alone. When the wood chips and solder fumes settled, what was left was the American Professional Telecaster—everything you need to play your best.</p>
+        <p v-show="desc4">
+          An extraordinary degree of expressive power, allowing drummers to pursue a level of expression that perhaps they have not experienced before in their other drums.
+          *Hybrid maple shell (center wenge ply)
+          *Hook lug
+          *Y.E.S.S. III mount system
+          *Vent hole
+          *Optimized bearing edge shape
+          *Inner vintage finish
+        </p>
 
         <a-button :loading="loading4" @click="handleClick4" style="marginTop: 16px">Add to Cart</a-button>
       </a-card>

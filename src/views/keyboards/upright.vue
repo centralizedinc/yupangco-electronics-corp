@@ -4,17 +4,18 @@
       <a-card hoverable style="width: 240px">
         <img
           alt="example"
-          src="https://www.yupangco.com/img/cache/thumbnail/TRBX305CAR.jpg"
+          src="https://www.yupangco.com/img/cache/thumbnail/qwqsu1VNffrBntPEKcht8QqiPpcl29ed9uizVHMN.jpeg"
           slot="cover"
         />
-        <a-card-meta title="Yamaha TRBX 305">
-          <template slot="description">₱24,950.00</template>
+        <a-card-meta title="Yamaha JU-109 PE">
+          <template slot="description">₱270,000.00</template>
         </a-card-meta>
         <a-button @click="Click1" style="marginTop: 16px">{{sh1}}</a-button>
         <p v-show="desc1">DESCRIPTION</p>
-        <p
-          v-show="desc1"
-        >Fender is guided by one clear, simple directive: make life better for musicians. While the original Telecaster certainly did that (and then some), we weren't content to rest on our laurels. Our team of mad scientists examined every component in near-microscopic detail. If we were able to improve it with a new design or modern materials we did; if it didn't need improvement, we left it alone. When the wood chips and solder fumes settled, what was left was the American Professional Telecaster—everything you need to play your best.</p>
+        <p v-show="desc1">
+          Ideal choice for Beginners, this is the ideal model for beginners to start with. Offering Yamaha's renowned quality at affordable price, the JU109 is a popular choice with many students who are just starting on their piano playing.Manufactured under Yamaha's stringent quality control, each piano provides years of piano playing enjoyment to the user.
+          A fine example of natural beauty, the JU109 features an exquisite combination of Yamaha craftsmanship and technology that make it delightfully affordable and a joy to play.
+        </p>
         <a-button :loading="loading1" @click="handleClick1" style="marginTop: 16px">Add to Cart</a-button>
       </a-card>
     </a-row>
@@ -22,17 +23,18 @@
       <a-card hoverable style="width: 240px">
         <img
           alt="example"
-          src="https://www.yupangco.com/img/cache/thumbnail/TRBX304PEWTER.jpg"
+          src="https://www.yupangco.com/img/cache/thumbnail/P03JU109PM.jpg"
           slot="cover"
         />
-        <a-card-meta title="Yamaha TRBX 304">
-          <template slot="description">₱21,950.00</template>
+        <a-card-meta title="Yamaha JU-109 PM">
+          <template slot="description">₱290,000.00</template>
         </a-card-meta>
         <a-button @click="Click2" style="marginTop: 16px">{{sh2}}</a-button>
         <p v-show="desc2">DESCRIPTION</p>
-        <p
-          v-show="desc2"
-        >Fender is guided by one clear, simple directive: make life better for musicians. While the original Telecaster certainly did that (and then some), we weren't content to rest on our laurels. Our team of mad scientists examined every component in near-microscopic detail. If we were able to improve it with a new design or modern materials we did; if it didn't need improvement, we left it alone. When the wood chips and solder fumes settled, what was left was the American Professional Telecaster—everything you need to play your best.</p>
+        <p v-show="desc2">
+          Ideal choice for Beginners, this is the ideal model for beginners to start with. Offering Yamaha's renowned quality at affordable price, the JU109 is a popular choice with many students who are just starting on their piano playing.Manufactured under Yamaha's stringent quality control, each piano provides years of piano playing enjoyment to the user.
+          A fine example of natural beauty, the JU109 features an exquisite combination of Yamaha craftsmanship and technology that make it delightfully affordable and a joy to play.
+        </p>
         <a-button :loading="loading2" @click="handleClick2" style="marginTop: 16px">Add to Cart</a-button>
       </a-card>
     </a-row>
@@ -40,17 +42,18 @@
       <a-card hoverable style="width: 240px">
         <img
           alt="example"
-          src="https://www.yupangco.com/img/cache/thumbnail/TRBX174DBM.jpg"
+          src="https://www.yupangco.com/img/cache/thumbnail/P03JU109PW.jpg"
           slot="cover"
         />
-        <a-card-meta title="Yamaha TRBX 174">
-          <template slot="description">₱14,950.00</template>
+        <a-card-meta title="Yamaha JU-109 PW">
+          <template slot="description">₱290,000.00</template>
         </a-card-meta>
         <a-button @click="Click3" style="marginTop: 16px">{{sh3}}</a-button>
         <p v-show="desc3">DESCRIPTION</p>
-        <p
-          v-show="desc3"
-        >Fender is guided by one clear, simple directive: make life better for musicians. While the original Telecaster certainly did that (and then some), we weren't content to rest on our laurels. Our team of mad scientists examined every component in near-microscopic detail. If we were able to improve it with a new design or modern materials we did; if it didn't need improvement, we left it alone. When the wood chips and solder fumes settled, what was left was the American Professional Telecaster—everything you need to play your best.</p>
+        <p v-show="desc3">
+          Ideal choice for Beginners, this is the ideal model for beginners to start with. Offering Yamaha's renowned quality at affordable price, the JU109 is a popular choice with many students who are just starting on their piano playing.Manufactured under Yamaha's stringent quality control, each piano provides years of piano playing enjoyment to the user.
+          A fine example of natural beauty, the JU109 features an exquisite combination of Yamaha craftsmanship and technology that make it delightfully affordable and a joy to play.
+        </p>
 
         <a-button :loading="loading3" @click="handleClick3" style="marginTop: 16px">Add to Cart</a-button>
       </a-card>
@@ -59,17 +62,18 @@
       <a-card hoverable style="width: 240px">
         <img
           alt="example"
-          src="https://www.yupangco.com/img/cache/thumbnail/squierdeluxejbv3ts.jpg"
+          src="https://www.yupangco.com/img/cache/thumbnail/YoirGaS3E1pDDGMM1OHy02q5z40yNcpyTW4KhiOa.jpeg"
           slot="cover"
         />
-        <a-card-meta title="Squier Deluxe Jazz Bass Active V">
-          <template slot="description">₱17,950.00</template>
+        <a-card-meta title="Yamaha JX-113T PE">
+          <template slot="description">₱360,00.00</template>
         </a-card-meta>
         <a-button @click="Click4" style="marginTop: 16px">{{sh4}}</a-button>
         <p v-show="desc4">DESCRIPTION</p>
-        <p
-          v-show="desc4"
-        >Fender is guided by one clear, simple directive: make life better for musicians. While the original Telecaster certainly did that (and then some), we weren't content to rest on our laurels. Our team of mad scientists examined every component in near-microscopic detail. If we were able to improve it with a new design or modern materials we did; if it didn't need improvement, we left it alone. When the wood chips and solder fumes settled, what was left was the American Professional Telecaster—everything you need to play your best.</p>
+        <p v-show="desc4">
+          Instruments of extraordinary, natural beauty, combining art, craftsmanship and technology ; a pleasure to play and to own.
+          Featuring superior sound through added depth and traditional cabinetry, the JX113T looks and sounds magnificent in any living environment.
+        </p>
 
         <a-button :loading="loading4" @click="handleClick4" style="marginTop: 16px">Add to Cart</a-button>
       </a-card>
